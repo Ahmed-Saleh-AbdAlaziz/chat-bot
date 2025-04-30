@@ -1,0 +1,2 @@
+C:/Users/ZEZO/Desktop/chat1/android/app/.cxx/Debug/714c3l1r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ZEZO/Desktop/chat1/android/app/.cxx/Debug/714c3l1r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
